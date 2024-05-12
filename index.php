@@ -108,7 +108,7 @@
     <h1>آخر المستجدات</h1>
     <div class="slide-container">
         <div class="slide">
-            <img src="img/slide1.jpg">
+            <img src="img/news-img/slide1.jpg">
             <div>
                 <span>04 avril 2024</span> <br>
                 <span>دورة تكوينية بالتنسيق مع الوكالة التركية للتعاون والتنسيق</span>
@@ -118,7 +118,7 @@
         </div>
 
         <div class="slide">
-            <img src="img/slide2.jpg">
+            <img src="img/news-img/slide2.jpg">
             <div>
                 <span>01 avril 2024</span> <br>
                 <span>دورة تكوينية بالتنسيق مع الوكالة التركية للتعاون والتنسيق</span>
@@ -128,7 +128,7 @@
         </div>
 
         <div class="slide">
-            <img src="img/slide3.jpg">
+            <img src="img/news-img/slide3.jpg">
             <div>
                 <span>30 mars 2024</span> <br>
                 <span>افتتاح دار الذكاء الإصطناعي</span>
